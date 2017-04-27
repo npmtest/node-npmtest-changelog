@@ -1,6 +1,6 @@
 # npmtest-changelog
 
-#### test coverage for  [changelog (v1.0.7)](http://github.com/dylang/changelog)  [![npm package](https://img.shields.io/npm/v/npmtest-changelog.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-changelog) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-changelog.svg)](https://travis-ci.org/npmtest/node-npmtest-changelog)
+#### basic test coverage for  [changelog (v1.0.7)](http://github.com/dylang/changelog)  [![npm package](https://img.shields.io/npm/v/npmtest-changelog.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-changelog) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-changelog.svg)](https://travis-ci.org/npmtest/node-npmtest-changelog)
 
 #### Command line tool (and Node module) that generates a changelog in color output, markdown, or json for modules in npmjs.org's registry as well as any public github.com repo.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-changelog/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-changelog/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-changelog/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-changelog/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-changelog/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-changelog/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-changelog/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-changelog/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-changelog/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-changelog/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-changelog/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-changelog/build/coverage.html/index.html)
 
